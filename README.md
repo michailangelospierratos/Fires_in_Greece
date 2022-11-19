@@ -1,20 +1,30 @@
-                                      Fires in Greece 2017-2021
+# Fires in Greece 2017-2021 
+
+## Overview-Goal
+This project is an attempt to analyze the data of wildfires in Greece during the period 2017-2021. This project was motivated by the devastating severity of the recent wildfires in Greece during the summer of 2021 in places such as Euvoia and Elia. The insights I try to extract from the data are: 
+### **Historical insights**
+* The general trend of the severity of fires in Greece in these last years
+* The total land that has been burnt from these fires
+### **Useful descriptive insights**
+* The most dangerous times of the day and months for severe fires
+* Probability of severe fires in different regions of Greece
+* The response of the fire departments across Greece
+### **Statistical insights**
+* Relationship of total help provided and duration of fires
+
+## Results
+From the analysis of the data we come to the following conclusions for each of the questions investigated:
+### **Historical insights**
+The years 2017-2020 were relatively mild for wildfires, whereas 2021 Greece experienced a 500% increase in the total land burnt in 2021, with the most severe fires taking place in Euvoia Attiki and Elia. In the last 5 year period 1.4% of Greece was burnt in these wildfires, while the worst fire of 2021 burnt a devastating 14% of the region of Euvoia.
+### **Useful descriptive insights**
+Quiet expectedly the summer months are the most dangerous for severe fires erupting. More interestingly, the most dangerous times of the day are both the higher temperature evening hours as well as the midnight hours when fire departments are at the most unprepared state.\
+The probability of severe fires increases significantly in districts that have experienced severe fires before, which probably indicates a natural susceptibility of these districts. The latter should therefore become the priority of the greek fire department whose response at the last year's devastating wildfires has been the same as it was in 2020, when the fires were significantly less severe. The small number of the greek firefighting dynamic might also have caused an avalanche effect of new uncontrolled fires becoming severe when the former was mostly concentrated in other areas.
+### **Statistical insights**
+We find that despite the large number of non-linear factors in the relationship of the total_help provided and duration of fires, this relationship is mostly linear, especially when the total area burnt variable is controlled.
 
 
-This is an attempt to analyze the data of wildfires in Greece during the period 2017-2021 and extract insights about trends in the severity of the fires, the areas mostly affected, the reaction of the fire department and perhaps more on the way. The data were provided by the National Greek Fire Department: https://www.fireservice.gr/el/synola-dedomenon
-
-This project was motivated by the devastating severity of the recent wildfires in Greece during the summer of 2021 in places such as Euvoia and Elia.
-
+## **Source**
+The data were provided by the National Greek Fire Department: https://www.fireservice.gr/el/synola-dedomenon
 
 
-**Contents**\
-Section 0: *Data extraction*\
-Section 1: *Data cleaning*\
-Section 2: *Severity measure, duration and further cleaning*\
-Section 3: *Comparing months in terms of number and severity of fires recorded*\
-Section 4: *Comparing times of the day in terms of number and severity of fires recorded*\
-Section 5: *What was the response of the fire departments across Greece?*\
-Section 6: *Probability of catastrophic fires*\
-Section 7: *What percentage of Euvoia and Greece was burnt in these wildfires?*\
-Section 8: *Total help-duration linear regression | A taste of machine learning*\
-Section 9: *Preparing the data for Tableau*
+
