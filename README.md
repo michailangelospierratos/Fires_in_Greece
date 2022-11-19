@@ -1,4 +1,4 @@
-                                                         Fires in Greece 2017-2021
+                                      Fires in Greece 2017-2021
 
 
 This is an attempt to analyze the data of wildfires in Greece during the period 2017-2021 and extract insights about trends in the severity of the fires, the areas mostly affected, the reaction of the fire department and perhaps more on the way. The data were provided by the National Greek Fire Department: https://www.fireservice.gr/el/synola-dedomenon
