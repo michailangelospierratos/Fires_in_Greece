@@ -5,7 +5,7 @@ This project is an attempt to analyze the data of wildfires in Greece during the
 ### **Historical trends**
 * The general trend of the severity of fires in Greece in these last years
 * The total land that has been burnt from these fires
-### **Descriptive-Prevention propositions**
+### **Descriptive-Prevention approach**
 * The most dangerous times of the day and months for severe fires
 * Probability of severe fires in different regions of Greece
 * The response of the fire departments across Greece
