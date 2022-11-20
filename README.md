@@ -24,8 +24,11 @@ We find that despite the large number of non-linear factors in the relationship 
   
   
 ## **Source**
-The data were provided by the National Greek Fire Department: https://www.fireservice.gr/el/synola-dedomenon\
-\
+The data were provided by the National Greek Fire Department: https://www.fireservice.gr/el/synola-dedomenon
+
+
+
+
 
 
 ### Acknowledgements
