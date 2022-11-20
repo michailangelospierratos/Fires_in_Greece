@@ -1,18 +1,18 @@
 # Fires in Greece 2017-2021 
 
-## Overview-Goal
+## Overview-Objectives
 This project is an attempt to analyze the data of wildfires in Greece during the period 2017-2021. This project was motivated by the devastating severity of the recent wildfires in Greece during the summer of 2021 in places such as Euvoia and Elia. The insights I try to extract from the data are: 
-### **Historical insights**
+### **Historical trends**
 * The general trend of the severity of fires in Greece in these last years
 * The total land that has been burnt from these fires
-### **Useful descriptive insights**
+### **Descriptive-Prevention propositions**
 * The most dangerous times of the day and months for severe fires
 * Probability of severe fires in different regions of Greece
 * The response of the fire departments across Greece
-### **Statistical insights**
+### **Statistically interesting**
 * Relationship of total help provided and duration of fires
 
-## Results
+## Findings
 From the analysis of the data we come to the following conclusions for each of the questions investigated:
 ### **Historical insights**
 The years 2017-2020 were relatively mild for wildfires, whereas Greece experienced a 500% increase in the total land burnt in 2021, with the most severe fires taking place in Euvoia Attiki and Elia. In the last 5 year period 1.4% of Greece was burnt in these wildfires, while the worst fire of 2021 burnt a devastating 14% of the region of Euvoia.
