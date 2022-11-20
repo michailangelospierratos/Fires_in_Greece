@@ -29,6 +29,6 @@ The data were provided by the National Greek Fire Department: https://www.firese
 
 
 ### Acknowledgements
-I would like to thank Angelos Anagnostopoulos (https://github.com/AngelosanAgnostopoulos), George Pondikas (), and Orestis Kitsaras (https://github.com/orestiskitsaras) for their tips on optimization.
+I would like to thank Angelos Anagnostopoulos (https://github.com/AngelosanAgnostopoulos), George Pondikas (https://github.com/GPontikas), and Orestis Kitsaras (https://github.com/orestiskitsaras) for their tips on optimization.
 
 
