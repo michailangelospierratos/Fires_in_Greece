@@ -21,10 +21,14 @@ Quiet expectedly the summer months are the most dangerous for severe fires erupt
 The probability of severe fires increases significantly in districts that have experienced severe fires before, which probably indicates their natural susceptibility to severe fires. The latter should therefore become the priority of the greek fire department whose response at the last year's devastating wildfires has been the same as it was in 2020, when the fires were significantly less severe. The small number of the greek firefighting dynamic might also have caused an avalanche effect of new uncontrolled fires becoming severe when the former was mostly concentrated in other areas.
 ### **Statistical insights**
 We find that despite the large number of non-linear factors in the relationship of the total_help provided and duration of fires, this relationship is mostly linear, especially when the total area burnt variable is controlled.
-
-
+  
+  
 ## **Source**
-The data were provided by the National Greek Fire Department: https://www.fireservice.gr/el/synola-dedomenon
+The data were provided by the National Greek Fire Department: https://www.fireservice.gr/el/synola-dedomenon\
+\
 
+
+### Acknowledgements
+I would like to thank Angelos Anagnostopoulos (https://github.com/AngelosanAgnostopoulos), George Pondikas (), and Orestis Kitsaras (https://github.com/orestiskitsaras) for their tips on optimization.
 
 
