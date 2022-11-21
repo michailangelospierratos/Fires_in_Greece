@@ -1,7 +1,7 @@
 # Fires in Greece 2017-2021 
 
 ## Overview-Objectives
-This project is an attempt to analyze the data of wildfires in Greece during the period 2017-2021. This project was motivated by the devastating severity of the recent wildfires in Greece during the summer of 2021 in places such as Euvoia and Elia. The insights I try to extract from the data are: 
+This project is an attempt to analyze the data of wildfires in Greece during the period 2017-2021. This project was motivated by the devastating severity of the recent wildfires in Greece during the summer of 2021 in places such as Evia, Attiki and Elia. The insights I try to extract from the data are: 
 ### **Historical trends**
 * The general trend of the severity of fires in Greece in these last years
 * The total land that has been burnt from these fires
